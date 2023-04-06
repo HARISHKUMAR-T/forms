@@ -1,0 +1,1 @@
+fname varchar,lname varchar,dob varchar,gender varchar,email varchar,phoneno bigint,address1 varchar,address2 varchar,city varchar,state varchar,country varchar,zip int
